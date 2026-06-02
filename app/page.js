@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 
 const studSizes = [
   { size: 10, group: "แท่นเล็ก", stock: 260, reorder: 80, produced: 180, pendingProduction: 70, poOrdered: 300, shipped: 145, pendingShipment: 105 },
@@ -77,6 +77,10 @@ function statusFor(item) {
 }
 
 export default function Home() {
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
+  const [username, setUsername] = useState("");
+  const [password, setPassword] = useState("");
+  const [loginError, setLoginError] = useState("");
   const [query, setQuery] = useState("");
   const [group, setGroup] = useState("all");
 
@@ -100,6 +104,80 @@ export default function Home() {
 
   const maxStock = Math.max(...studSizes.map((item) => item.stock), 1);
   const groups = Array.from(new Set(studSizes.map((item) => item.group)));
+
+  useEffect(() => {
+    setIsLoggedIn(sessionStorage.getItem("stud-auth") === "yes");
+  }, []);
+
+  function handleLogin(event) {
+    event.preventDefault();
+
+    if (username.trim() === "admin" && password === "stud1234") {
+      sessionStorage.setItem("stud-auth", "yes");
+      setIsLoggedIn(true);
+      setLoginError("");
+      return;
+    }
+
+    setLoginError("ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง");
+  }
+
+  function handleLogout() {
+    sessionStorage.removeItem("stud-auth");
+    setIsLoggedIn(false);
+    setUsername("");
+    setPassword("");
+  }
+
+  if (!isLoggedIn) {
+    return (
+      <main className="login-page">
+        <section className="login-visual">
+          <div>
+            <p className="eyebrow">STUD operation dashboard</p>
+            <h1>เข้าสู่ระบบจัดการ STUD</h1>
+            <p>ติดตามสต๊อกแท่น งานปิดขาย ผลิต ตรวจรับ PO และค้างส่งของแต่ละโครงการ</p>
+          </div>
+        </section>
+
+        <section className="login-card">
+          <div className="login-brand">
+            <span className="avatar">S</span>
+            <div>
+              <strong>STUD Stock</strong>
+              <small>Project Inventory</small>
+            </div>
+          </div>
+
+          <form onSubmit={handleLogin}>
+            <label>
+              <span>ชื่อผู้ใช้</span>
+              <input
+                autoComplete="username"
+                value={username}
+                onChange={(event) => setUsername(event.target.value)}
+                placeholder="admin"
+              />
+            </label>
+            <label>
+              <span>รหัสผ่าน</span>
+              <input
+                autoComplete="current-password"
+                type="password"
+                value={password}
+                onChange={(event) => setPassword(event.target.value)}
+                placeholder="stud1234"
+              />
+            </label>
+            {loginError ? <p className="login-error">{loginError}</p> : null}
+            <button className="primary-action login-button" type="submit">เข้าสู่ระบบ</button>
+          </form>
+
+          <p className="login-hint">สำหรับเดโม: admin / stud1234</p>
+        </section>
+      </main>
+    );
+  }
 
   return (
     <main className="dashboard-shell">
@@ -130,6 +208,7 @@ export default function Home() {
           <p>ระบบจัดการ STUD ตั้งแต่ปิดขายโครงการ ผลิต ตรวจรับ PO จนถึงส่งหลายรอบ</p>
           <div>
             <button className="light-button" type="button">Print</button>
+            <button className="light-button" type="button" onClick={handleLogout}>ออกจากระบบ</button>
             <button className="primary-action" type="button">เพิ่มโครงการ</button>
           </div>
         </header>
