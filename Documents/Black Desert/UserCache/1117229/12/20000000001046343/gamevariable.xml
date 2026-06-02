@@ -1,0 +1,1208 @@
+<CheckQuestList Version="1">
+	<CheckedQuest Group="790" Quest="12" IsOn="true"/>
+	<CheckedQuest Group="790" Quest="11" IsOn="true"/>
+	<CheckedQuest Group="790" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="899" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="899" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="899" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="899" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="899" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="899" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="899" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="899" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="899" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="899" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="899" Quest="11" IsOn="true"/>
+	<CheckedQuest Group="835" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="835" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="835" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="841" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="888" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="888" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="888" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="888" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="888" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="894" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="894" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="894" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="894" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="894" Quest="13" IsOn="true"/>
+	<CheckedQuest Group="894" Quest="15" IsOn="true"/>
+	<CheckedQuest Group="894" Quest="17" IsOn="true"/>
+	<CheckedQuest Group="894" Quest="20" IsOn="true"/>
+	<CheckedQuest Group="894" Quest="23" IsOn="true"/>
+	<CheckedQuest Group="897" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="897" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="897" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="897" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="897" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="897" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="897" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="897" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="897" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="897" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="897" Quest="11" IsOn="true"/>
+	<CheckedQuest Group="898" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="898" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="898" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="898" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="898" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="898" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="898" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="898" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="898" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="898" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="898" Quest="11" IsOn="true"/>
+	<CheckedQuest Group="900" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="900" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="900" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="900" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="900" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="900" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="900" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="900" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="900" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="900" Quest="11" IsOn="true"/>
+	<CheckedQuest Group="900" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="901" Quest="14" IsOn="true"/>
+	<CheckedQuest Group="901" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="901" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="901" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="901" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="901" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="901" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="901" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="901" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="901" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="901" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="902" Quest="14" IsOn="true"/>
+	<CheckedQuest Group="902" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="902" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="902" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="902" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="902" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="902" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="902" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="902" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="902" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="903" Quest="14" IsOn="true"/>
+	<CheckedQuest Group="903" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="903" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="903" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="903" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="903" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="903" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="903" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="903" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="903" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="3724" Quest="15" IsOn="true"/>
+	<CheckedQuest Group="3724" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="3724" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="3724" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="3724" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="4464" Quest="23" IsOn="true"/>
+	<CheckedQuest Group="4465" Quest="27" IsOn="true"/>
+	<CheckedQuest Group="4465" Quest="26" IsOn="true"/>
+	<CheckedQuest Group="4465" Quest="24" IsOn="true"/>
+	<CheckedQuest Group="4465" Quest="21" IsOn="true"/>
+	<CheckedQuest Group="4465" Quest="20" IsOn="true"/>
+	<CheckedQuest Group="4465" Quest="19" IsOn="true"/>
+	<CheckedQuest Group="4465" Quest="18" IsOn="true"/>
+	<CheckedQuest Group="4465" Quest="15" IsOn="true"/>
+	<CheckedQuest Group="4465" Quest="14" IsOn="true"/>
+	<CheckedQuest Group="4465" Quest="13" IsOn="true"/>
+	<CheckedQuest Group="4465" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="4465" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="4465" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="4465" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="4465" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="4465" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="4466" Quest="29" IsOn="true"/>
+	<CheckedQuest Group="4466" Quest="28" IsOn="true"/>
+	<CheckedQuest Group="4466" Quest="21" IsOn="true"/>
+	<CheckedQuest Group="4466" Quest="20" IsOn="true"/>
+	<CheckedQuest Group="4466" Quest="19" IsOn="true"/>
+	<CheckedQuest Group="4466" Quest="18" IsOn="true"/>
+	<CheckedQuest Group="4466" Quest="14" IsOn="true"/>
+	<CheckedQuest Group="4466" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="4466" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="4466" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="4466" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="4466" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="30" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="29" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="28" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="26" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="23" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="22" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="21" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="20" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="19" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="17" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="16" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="15" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="14" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="13" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="12" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="4467" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="26" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="24" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="23" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="22" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="21" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="20" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="19" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="18" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="17" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="16" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="15" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="14" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="13" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="12" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="11" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="4468" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="4469" Quest="16" IsOn="true"/>
+	<CheckedQuest Group="4469" Quest="15" IsOn="true"/>
+	<CheckedQuest Group="4469" Quest="14" IsOn="true"/>
+	<CheckedQuest Group="4469" Quest="13" IsOn="true"/>
+	<CheckedQuest Group="4469" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="4469" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="4469" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="4469" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="4469" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="40" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="39" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="38" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="37" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="36" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="35" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="34" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="33" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="32" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="31" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="30" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="29" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="28" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="27" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="26" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="25" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="24" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="22" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="21" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="20" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="19" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="18" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="17" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="16" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="15" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="14" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="13" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="12" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="11" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="4470" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="4471" Quest="47" IsOn="true"/>
+	<CheckedQuest Group="4471" Quest="46" IsOn="true"/>
+	<CheckedQuest Group="4471" Quest="45" IsOn="true"/>
+	<CheckedQuest Group="4471" Quest="44" IsOn="true"/>
+	<CheckedQuest Group="4471" Quest="43" IsOn="true"/>
+	<CheckedQuest Group="4471" Quest="42" IsOn="true"/>
+	<CheckedQuest Group="4471" Quest="20" IsOn="true"/>
+	<CheckedQuest Group="4471" Quest="19" IsOn="true"/>
+	<CheckedQuest Group="4471" Quest="14" IsOn="true"/>
+	<CheckedQuest Group="4471" Quest="12" IsOn="true"/>
+	<CheckedQuest Group="4471" Quest="11" IsOn="true"/>
+	<CheckedQuest Group="4471" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="4471" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="4471" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="4471" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="8700" Quest="12" IsOn="true"/>
+	<CheckedQuest Group="8700" Quest="11" IsOn="true"/>
+	<CheckedQuest Group="8700" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="8700" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="8700" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="8700" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="8700" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="8700" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="8700" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="8700" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="8700" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="8700" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="8701" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="8701" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="8701" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="8701" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="8701" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="8701" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="8701" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="8701" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="8701" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="8701" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="8702" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="8702" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="8702" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="8702" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="8702" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="8702" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="8702" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="8702" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="8703" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="8703" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="8703" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="8703" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="8703" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="8703" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="8703" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="8703" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="8703" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="8703" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="8704" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="8704" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="8705" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="8705" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="8705" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="8705" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="8705" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="8705" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="8705" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="8705" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="8706" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="8706" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="8706" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="8706" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="8706" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="8706" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="8706" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="8707" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="8707" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="8707" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="8707" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="8707" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="8707" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="8707" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="8707" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="8707" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="8707" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="8708" Quest="11" IsOn="true"/>
+	<CheckedQuest Group="8708" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="8708" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="8708" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="8708" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="8708" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="8708" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="8708" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="8708" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="8708" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="8708" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="8709" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="8709" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="8709" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="8709" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="8709" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="8709" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="8709" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="8709" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="8710" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="8710" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="8710" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="25" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="24" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="23" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="22" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="21" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="20" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="19" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="18" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="17" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="16" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="15" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="14" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="13" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="12" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="11" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="8711" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="26" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="25" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="24" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="23" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="22" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="21" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="20" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="19" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="18" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="17" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="16" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="15" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="14" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="13" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="12" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="11" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="8712" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="23" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="22" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="21" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="20" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="19" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="18" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="17" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="16" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="15" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="14" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="13" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="12" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="11" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="10" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="8713" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="8714" Quest="9" IsOn="true"/>
+	<CheckedQuest Group="8714" Quest="8" IsOn="true"/>
+	<CheckedQuest Group="8714" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="8714" Quest="6" IsOn="true"/>
+	<CheckedQuest Group="8714" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="8714" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="8714" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="8714" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="8714" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="8721" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="8721" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="8721" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="8725" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="8725" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="8725" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="8725" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="8725" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="9001" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="9001" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="9001" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="9001" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="9001" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="9008" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="11103" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="11103" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="11103" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="30003" Quest="5" IsOn="true"/>
+	<CheckedQuest Group="30003" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="30003" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="30003" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="12022" Quest="54" IsOn="true"/>
+	<CheckedQuest Group="12022" Quest="53" IsOn="true"/>
+	<CheckedQuest Group="12022" Quest="52" IsOn="true"/>
+	<CheckedQuest Group="12022" Quest="51" IsOn="true"/>
+	<CheckedQuest Group="12022" Quest="50" IsOn="true"/>
+	<CheckedQuest Group="12022" Quest="31" IsOn="true"/>
+	<CheckedQuest Group="12022" Quest="30" IsOn="true"/>
+	<CheckedQuest Group="12022" Quest="29" IsOn="true"/>
+	<CheckedQuest Group="12022" Quest="25" IsOn="true"/>
+</CheckQuestList>
+<QuestSortType Version="1">
+	<QuestSortType Type="Distance" Order="None"/>
+	<QuestSortType Type="AcceptTime" Order="None"/>
+	<QuestSortType Type="Type" Order="None"/>
+</QuestSortType>
+<QuestSelectType Version="2">
+	<QuestSelectType Index="0" IsOn="true"/>
+	<QuestSelectType Index="1" IsOn="true"/>
+	<QuestSelectType Index="2" IsOn="true"/>
+	<QuestSelectType Index="3" IsOn="true"/>
+	<QuestSelectType Index="4" IsOn="true"/>
+	<QuestSelectType Index="5" IsOn="true"/>
+	<QuestSelectType Index="6" IsOn="true"/>
+	<QuestSelectType Index="7" IsOn="true"/>
+</QuestSelectType>
+<QuickSlotData Version="4">
+	<QuickEmpty Key="0" Position="0.000000 0.000000" KeyboardKey="0" Memo=""/>
+	<QuickEmpty Key="1" Position="0.000000 0.000000" KeyboardKey="0" Memo=""/>
+	<QuickEmpty Key="2" Position="0.000000 0.000000" KeyboardKey="0" Memo=""/>
+	<QuickEmpty Key="3" Position="0.000000 0.000000" KeyboardKey="0" Memo=""/>
+	<QuickEmpty Key="4" Position="0.000000 0.000000" KeyboardKey="0" Memo=""/>
+	<QuickEmpty Key="5" Position="0.000000 0.000000" KeyboardKey="0" Memo=""/>
+	<QuickEmpty Key="6" Position="0.000000 0.000000" KeyboardKey="0" Memo=""/>
+	<QuickEmpty Key="7" Position="0.000000 0.000000" KeyboardKey="0" Memo=""/>
+	<QuickSlotSkillData Key="8" SkillNo="892" SkillLevel="1" Position="0.000000 0.000000" KeyboardKey="56" Memo=""/>
+	<QuickSlotSkillData Key="9" SkillNo="909" SkillLevel="1" Position="0.000000 0.000000" KeyboardKey="57" Memo=""/>
+	<QuickEmpty Key="10" Position="0.000000 0.000000" KeyboardKey="0" Memo=""/>
+	<QuickEmpty Key="11" Position="0.000000 0.000000" KeyboardKey="0" Memo=""/>
+	<QuickEmpty Key="12" Position="0.000000 0.000000" KeyboardKey="0" Memo=""/>
+	<QuickEmpty Key="13" Position="0.000000 0.000000" KeyboardKey="0" Memo=""/>
+	<QuickEmpty Key="14" Position="0.000000 0.000000" KeyboardKey="0" Memo=""/>
+	<QuickEmpty Key="15" Position="0.000000 0.000000" KeyboardKey="0" Memo=""/>
+	<QuickEmpty Key="16" Position="0.000000 0.000000" KeyboardKey="0" Memo=""/>
+	<QuickEmpty Key="17" Position="0.000000 0.000000" KeyboardKey="0" Memo=""/>
+	<QuickEmpty Key="18" Position="0.000000 0.000000" KeyboardKey="0" Memo=""/>
+	<QuickEmpty Key="19" Position="0.000000 0.000000" KeyboardKey="0" Memo=""/>
+</QuickSlotData>
+<ShortcutKey Version="15">
+	<ShortcutKey_Action_Key InputType="MoveFront" Alt="false" IgnoreFuncKey="false" keyCode="87"/>
+	<ShortcutKey_Action_Key InputType="MoveBack" Alt="false" IgnoreFuncKey="false" keyCode="83"/>
+	<ShortcutKey_Action_Key InputType="MoveLeft" Alt="false" IgnoreFuncKey="false" keyCode="65"/>
+	<ShortcutKey_Action_Key InputType="MoveRight" Alt="false" IgnoreFuncKey="false" keyCode="68"/>
+	<ShortcutKey_Action_Key InputType="Attack1" Alt="false" IgnoreFuncKey="false" keyCode="1"/>
+	<ShortcutKey_Action_Key InputType="Attack2" Alt="false" IgnoreFuncKey="false" keyCode="2"/>
+	<ShortcutKey_Action_Key InputType="Dash" Alt="false" IgnoreFuncKey="false" keyCode="16"/>
+	<ShortcutKey_Action_Key InputType="Jump" Alt="false" IgnoreFuncKey="false" keyCode="32"/>
+	<ShortcutKey_Action_Key InputType="Interaction" Alt="false" IgnoreFuncKey="false" keyCode="82"/>
+	<ShortcutKey_Action_Key InputType="AutoRun" Alt="false" IgnoreFuncKey="false" keyCode="84"/>
+	<ShortcutKey_Action_Key InputType="WeaponInOut" Alt="false" IgnoreFuncKey="false" keyCode="9"/>
+	<ShortcutKey_Action_Key InputType="CameraReset" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="CrouchOrSkill" Alt="false" IgnoreFuncKey="false" keyCode="81"/>
+	<ShortcutKey_Action_Key InputType="GrabOrGuard" Alt="false" IgnoreFuncKey="false" keyCode="69"/>
+	<ShortcutKey_Action_Key InputType="Kick" Alt="false" IgnoreFuncKey="false" keyCode="70"/>
+	<ShortcutKey_Action_Key InputType="ServantOrder1" Alt="false" IgnoreFuncKey="false" keyCode="90"/>
+	<ShortcutKey_Action_Key InputType="ServantOrder2" Alt="false" IgnoreFuncKey="false" keyCode="88"/>
+	<ShortcutKey_Action_Key InputType="ServantOrder3" Alt="false" IgnoreFuncKey="false" keyCode="67"/>
+	<ShortcutKey_Action_Key InputType="ServantOrder4" Alt="false" IgnoreFuncKey="false" keyCode="86"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot1" Alt="false" IgnoreFuncKey="false" keyCode="49"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot2" Alt="false" IgnoreFuncKey="false" keyCode="50"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot3" Alt="false" IgnoreFuncKey="false" keyCode="51"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot4" Alt="false" IgnoreFuncKey="false" keyCode="52"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot5" Alt="false" IgnoreFuncKey="false" keyCode="53"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot6" Alt="false" IgnoreFuncKey="false" keyCode="54"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot7" Alt="false" IgnoreFuncKey="false" keyCode="55"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot8" Alt="false" IgnoreFuncKey="false" keyCode="56"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot9" Alt="false" IgnoreFuncKey="false" keyCode="57"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot0" Alt="false" IgnoreFuncKey="false" keyCode="48"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot11" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot12" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot13" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot14" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot15" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot16" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot17" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot18" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot19" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="QuickSlot10" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="Complicated0" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="Complicated1" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="Complicated2" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="Complicated3" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="AutoMoveWalkMode" Alt="false" IgnoreFuncKey="false" keyCode="145"/>
+	<ShortcutKey_Action_Key InputType="CameraUp" Alt="false" IgnoreFuncKey="false" keyCode="38"/>
+	<ShortcutKey_Action_Key InputType="CameraDown" Alt="false" IgnoreFuncKey="false" keyCode="40"/>
+	<ShortcutKey_Action_Key InputType="CameraLeft" Alt="false" IgnoreFuncKey="false" keyCode="37"/>
+	<ShortcutKey_Action_Key InputType="CameraRight" Alt="false" IgnoreFuncKey="false" keyCode="39"/>
+	<ShortcutKey_Action_Key InputType="CameraRotateGameMode" Alt="false" IgnoreFuncKey="false" keyCode="4"/>
+	<ShortcutKey_Action_Key InputType="PushToTalk" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="NormalWalkMode" Alt="false" IgnoreFuncKey="false" keyCode="20"/>
+	<ShortcutKey_Action_Key InputType="KBAction1" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="KBAction2" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="KBAction3" Alt="false" IgnoreFuncKey="false" keyCode="192"/>
+	<ShortcutKey_Action_Key InputType="CameraReflect" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="Grenade" Alt="false" IgnoreFuncKey="false" keyCode="71"/>
+	<ShortcutKey_Action_Key InputType="SocialAction0" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="SocialAction1" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="SocialAction2" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="SocialAction3" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="SocialAction4" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="SocialAction5" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Key InputType="Esc" Alt="false" IgnoreFuncKey="false" keyCode="27"/>
+	<ShortcutKey_Action_Key InputType="SocialAction6" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_Action_Pad InputType="MoveFront" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="LStick Up" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="MoveBack" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="LStick Down" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="MoveLeft" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="LStick Left" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="MoveRight" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="LStick Right" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="Attack1" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="X" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="Attack2" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="LTrigger" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="Dash" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="RTrigger" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="Jump" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="A" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="Interaction" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="LeftThumb" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="AutoRun" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="DPad Up" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="WeaponInOut" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="DPad Left" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="CameraReset" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="DPad Down" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="CrouchOrSkill" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="RightThumb" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="GrabOrGuard" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="Y" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="Kick" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="B" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="ServantOrder1" PadFunc1="false" PadFunc2="true" IgnoreFuncKey="false" PadInputType="DPad Down" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="ServantOrder2" PadFunc1="false" PadFunc2="true" IgnoreFuncKey="false" PadInputType="DPad Left" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="ServantOrder3" PadFunc1="false" PadFunc2="true" IgnoreFuncKey="false" PadInputType="DPad Right" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="ServantOrder4" PadFunc1="false" PadFunc2="true" IgnoreFuncKey="false" PadInputType="DPad Up" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot1" PadFunc1="true" PadFunc2="false" IgnoreFuncKey="false" PadInputType="A" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot2" PadFunc1="true" PadFunc2="false" IgnoreFuncKey="false" PadInputType="B" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot3" PadFunc1="true" PadFunc2="false" IgnoreFuncKey="false" PadInputType="X" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot4" PadFunc1="true" PadFunc2="false" IgnoreFuncKey="false" PadInputType="Y" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot5" PadFunc1="false" PadFunc2="true" IgnoreFuncKey="false" PadInputType="A" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot6" PadFunc1="false" PadFunc2="true" IgnoreFuncKey="false" PadInputType="B" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot7" PadFunc1="false" PadFunc2="true" IgnoreFuncKey="false" PadInputType="X" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot8" PadFunc1="false" PadFunc2="true" IgnoreFuncKey="false" PadInputType="Y" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot9" PadFunc1="true" PadFunc2="false" IgnoreFuncKey="false" PadInputType="DPad Down" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot0" PadFunc1="true" PadFunc2="false" IgnoreFuncKey="false" PadInputType="DPad Left" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot11" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot12" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot13" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot14" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot15" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot16" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot17" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot18" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot19" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="QuickSlot10" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="Complicated0" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="Complicated1" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="Complicated2" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="Complicated3" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="AutoMoveWalkMode" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="DPad Right" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="CameraUp" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="CameraDown" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="CameraLeft" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="CameraRight" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="CameraRotateGameMode" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="PushToTalk" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="NormalWalkMode" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="KBAction1" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="KBAction2" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="KBAction3" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="CameraReflect" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="Grenade" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="SocialAction0" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="SocialAction1" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="SocialAction2" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="SocialAction3" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="SocialAction4" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="SocialAction5" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="Esc" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="Back" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad InputType="SocialAction6" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_Action_Pad_Func1 PadInputType="RightShoulder"/>
+	<ShortcutKey_Action_Pad_Func2 PadInputType="LeftShoulder"/>
+	<ShortcutKey_UI_Key InputType="MouseCursorOnOff" Alt="false" IgnoreFuncKey="false" keyCode="17"/>
+	<ShortcutKey_UI_Key InputType="Help" Alt="false" IgnoreFuncKey="false" keyCode="112"/>
+	<ShortcutKey_UI_Key InputType="MentalKnowledge" Alt="false" IgnoreFuncKey="false" keyCode="72"/>
+	<ShortcutKey_UI_Key InputType="Inventory" Alt="false" IgnoreFuncKey="false" keyCode="73"/>
+	<ShortcutKey_UI_Key InputType="BlackSpirit" Alt="false" IgnoreFuncKey="false" keyCode="191"/>
+	<ShortcutKey_UI_Key InputType="Chat" Alt="false" IgnoreFuncKey="false" keyCode="13"/>
+	<ShortcutKey_UI_Key InputType="PlayerInfo" Alt="false" IgnoreFuncKey="false" keyCode="80"/>
+	<ShortcutKey_UI_Key InputType="Skill" Alt="false" IgnoreFuncKey="false" keyCode="75"/>
+	<ShortcutKey_UI_Key InputType="WorldMap" Alt="false" IgnoreFuncKey="false" keyCode="77"/>
+	<ShortcutKey_UI_Key InputType="Dyeing" Alt="false" IgnoreFuncKey="false" keyCode="74"/>
+	<ShortcutKey_UI_Key InputType="ProductionNote" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="Manufacture" Alt="false" IgnoreFuncKey="false" keyCode="76"/>
+	<ShortcutKey_UI_Key InputType="Guild" Alt="false" IgnoreFuncKey="false" keyCode="71"/>
+	<ShortcutKey_UI_Key InputType="Mail" Alt="false" IgnoreFuncKey="false" keyCode="66"/>
+	<ShortcutKey_UI_Key InputType="FriendList" Alt="false" IgnoreFuncKey="false" keyCode="78"/>
+	<ShortcutKey_UI_Key InputType="Present" Alt="false" IgnoreFuncKey="false" keyCode="89"/>
+	<ShortcutKey_UI_Key InputType="QuestHistory" Alt="false" IgnoreFuncKey="false" keyCode="79"/>
+	<ShortcutKey_UI_Key InputType="CashShop" Alt="false" IgnoreFuncKey="false" keyCode="114"/>
+	<ShortcutKey_UI_Key InputType="BeautyShop" Alt="false" IgnoreFuncKey="false" keyCode="115"/>
+	<ShortcutKey_UI_Key InputType="AlchemyStone" Alt="false" IgnoreFuncKey="false" keyCode="85"/>
+	<ShortcutKey_UI_Key InputType="House" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="Worker" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="Pet" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="Maid" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="Servant" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="GuildServant" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="DeleteNavigation" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="CameraSpeedUp" Alt="false" IgnoreFuncKey="false" keyCode="187"/>
+	<ShortcutKey_UI_Key InputType="CameraSpeedDown" Alt="false" IgnoreFuncKey="false" keyCode="189"/>
+	<ShortcutKey_UI_Key InputType="PositionNotify" Alt="false" IgnoreFuncKey="false" keyCode="192"/>
+	<ShortcutKey_UI_Key InputType="Interaction_0" Alt="false" IgnoreFuncKey="false" keyCode="116"/>
+	<ShortcutKey_UI_Key InputType="Interaction_1" Alt="false" IgnoreFuncKey="false" keyCode="117"/>
+	<ShortcutKey_UI_Key InputType="Interaction_2" Alt="false" IgnoreFuncKey="false" keyCode="118"/>
+	<ShortcutKey_UI_Key InputType="Interaction_3" Alt="false" IgnoreFuncKey="false" keyCode="119"/>
+	<ShortcutKey_UI_Key InputType="Interaction_4" Alt="false" IgnoreFuncKey="false" keyCode="120"/>
+	<ShortcutKey_UI_Key InputType="ChatTabPrev" Alt="false" IgnoreFuncKey="false" keyCode="33"/>
+	<ShortcutKey_UI_Key InputType="ChatTabNext" Alt="false" IgnoreFuncKey="false" keyCode="34"/>
+	<ShortcutKey_UI_Key InputType="UIPossessionByBlackSpirit" Alt="false" IgnoreFuncKey="false" keyCode="119"/>
+	<ShortcutKey_UI_Key InputType="Memo" Alt="false" IgnoreFuncKey="false" keyCode="111"/>
+	<ShortcutKey_UI_Key InputType="QuestJournal" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="BlackGift" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="CallServantWater" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="BarterInfo" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="ShadowArenaSkillList" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="ShadowArenaLockOn" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="ExpirienceWiki" Alt="false" IgnoreFuncKey="false" keyCode="113"/>
+	<ShortcutKey_UI_Key InputType="FamilyInven" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="ShadowArenaEnemyInfo" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="PingType_Attack" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="PingType_Move" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="PingType_Reader" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="PingType_Caution" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="MoveToWharf" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Pad InputType="MouseCursorOnOff" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="Back" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="Help" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="MentalKnowledge" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="Inventory" PadFunc1="true" PadFunc2="true" IgnoreFuncKey="false" PadInputType="Y" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="BlackSpirit" PadFunc1="true" PadFunc2="true" IgnoreFuncKey="false" PadInputType="B" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="Chat" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="PlayerInfo" PadFunc1="true" PadFunc2="true" IgnoreFuncKey="false" PadInputType="X" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="Skill" PadFunc1="true" PadFunc2="true" IgnoreFuncKey="false" PadInputType="DPad Up" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="WorldMap" PadFunc1="true" PadFunc2="true" IgnoreFuncKey="false" PadInputType="A" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="Dyeing" PadFunc1="true" PadFunc2="true" IgnoreFuncKey="false" PadInputType="DPad Right" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="ProductionNote" PadFunc1="true" PadFunc2="true" IgnoreFuncKey="false" PadInputType="DPad Left" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="Manufacture" PadFunc1="true" PadFunc2="true" IgnoreFuncKey="false" PadInputType="DPad Down" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="Guild" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="Mail" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="FriendList" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="Present" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="QuestHistory" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="CashShop" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="BeautyShop" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="AlchemyStone" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="House" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="Worker" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="Pet" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="Maid" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="Servant" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="GuildServant" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="DeleteNavigation" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="CameraSpeedUp" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="CameraSpeedDown" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="PositionNotify" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="Interaction_0" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="Interaction_1" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="Interaction_2" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="Interaction_3" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="Interaction_4" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="ChatTabPrev" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="ChatTabNext" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="UIPossessionByBlackSpirit" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="Memo" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="QuestJournal" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="BlackGift" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="CallServantWater" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="BarterInfo" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="ShadowArenaSkillList" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="ShadowArenaLockOn" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="ExpirienceWiki" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="FamilyInven" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="ShadowArenaEnemyInfo" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="PingType_Attack" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="PingType_Move" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="PingType_Reader" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="PingType_Caution" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="MoveToWharf" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+</ShortcutKey>
+<ChattingMacro Version="2"/>
+<UIData Version="2">
+	<UIData Index="55" IsShow="false"/>
+	<UIData Index="139" IsShow="true"/>
+	<UIData Index="86" IsShow="true"/>
+	<UIData Index="122" IsShow="false"/>
+	<UIData Index="87" IsShow="true"/>
+	<UIData Index="22" IsShow="false"/>
+	<UIData Index="123" IsShow="true"/>
+	<UIData Index="124" IsShow="false"/>
+	<UIData Index="125" IsShow="false"/>
+	<UIData Index="126" IsShow="false"/>
+	<UIData Index="13" IsShow="true"/>
+	<UIData Index="2" IsShow="true"/>
+	<UIData Index="114" IsShow="true"/>
+	<UIData Index="138" IsShow="false"/>
+	<UIData Index="84" IsShow="false"/>
+	<UIData Index="89" IsShow="false"/>
+	<UIData Index="85" IsShow="true"/>
+	<UIData Index="115" IsShow="false"/>
+	<UIData Index="141" IsShow="true"/>
+	<UIData Index="82" IsShow="false"/>
+	<UIData Index="12" IsShow="true"/>
+	<UIData Index="100" IsShow="false"/>
+	<UIData Index="91" IsShow="false"/>
+	<UIData Index="92" IsShow="false"/>
+	<UIData Index="93" IsShow="false"/>
+	<UIData Index="94" IsShow="false"/>
+	<UIData Index="95" IsShow="false"/>
+	<UIData Index="96" IsShow="false"/>
+	<UIData Index="97" IsShow="false"/>
+	<UIData Index="98" IsShow="false"/>
+	<UIData Index="99" IsShow="false"/>
+	<UIData Index="110" IsShow="false"/>
+	<UIData Index="101" IsShow="false"/>
+	<UIData Index="102" IsShow="false"/>
+	<UIData Index="103" IsShow="false"/>
+	<UIData Index="104" IsShow="false"/>
+	<UIData Index="105" IsShow="false"/>
+	<UIData Index="106" IsShow="false"/>
+	<UIData Index="107" IsShow="false"/>
+	<UIData Index="108" IsShow="false"/>
+	<UIData Index="109" IsShow="false"/>
+	<UIData Index="111" IsShow="false"/>
+	<UIData Index="128" IsShow="true"/>
+	<UIData Index="129" IsShow="true"/>
+	<UIData Index="130" IsShow="true"/>
+	<UIData Index="131" IsShow="true"/>
+	<UIData Index="132" IsShow="true"/>
+	<UIData Index="133" IsShow="true"/>
+	<UIData Index="134" IsShow="true"/>
+	<UIData Index="135" IsShow="true"/>
+	<UIData Index="136" IsShow="true"/>
+	<UIData Index="137" IsShow="true"/>
+	<UIData Index="9" IsShow="true"/>
+	<UIData Index="88" IsShow="false"/>
+	<UIData Index="112" IsShow="false"/>
+	<UIData Index="119" IsShow="true"/>
+	<UIData Index="140" IsShow="false"/>
+	<UIData Index="3" IsShow="true"/>
+	<UIData Index="32" IsShow="false"/>
+	<UIData Index="32" IsShow="true"/>
+	<UIData Index="32" IsShow="false"/>
+	<UIData Index="32" IsShow="false"/>
+	<UIData Index="15" IsShow="false"/>
+	<UIData Index="127" IsShow="false"/>
+	<UIData Index="32" IsShow="true"/>
+	<UIData Index="21" IsShow="true"/>
+	<UIData Index="113" IsShow="true"/>
+	<UIData Index="116" IsShow="false"/>
+	<UIData Index="118" IsShow="false"/>
+	<UIData Index="117" IsShow="false"/>
+	<UIData Index="142" IsShow="false"/>
+	<UIData Index="143" IsShow="true"/>
+	<UIData Index="121" IsShow="false"/>
+	<UIData Index="120" IsShow="true"/>
+	<UIData Index="158" IsShow="true"/>
+	<UIData Index="147" IsShow="false"/>
+	<UIData Index="148" IsShow="true"/>
+	<UIData Index="149" IsShow="true"/>
+	<UIData Index="150" IsShow="true"/>
+	<UIData Index="151" IsShow="true"/>
+	<UIData Index="152" IsShow="false"/>
+	<UIData Index="153" IsShow="true"/>
+	<UIData Index="154" IsShow="false"/>
+	<UIData Index="155" IsShow="false"/>
+	<UIData Index="156" IsShow="false"/>
+	<UIData Index="157" IsShow="false"/>
+	<UIData Index="159" IsShow="true"/>
+	<UIData Index="160" IsShow="true"/>
+	<UIData Index="51" IsShow="false"/>
+	<UIData Index="41" IsShow="false">
+		<Inventory Type="IsSortedInventory" Value="false"/>
+		<Inventory Type="IsShowHelm" Value="false"/>
+		<Inventory Type="IsShowBattleHelm" Value="false"/>
+		<Inventory Type="IsUnderwear" Value="false"/>
+		<Inventory Type="IsCamouflage" Value="false"/>
+		<Inventory Type="IsCloak" Value="true"/>
+		<Inventory Type="IsShowBeard" Value="true"/>
+		<Inventory Type="IsShowMustache" Value="true"/>
+		<Inventory Type="IsShowWhiskers" Value="true"/>
+		<Inventory Type="IsShowSubWeapon" Value="true"/>
+		<Inventory Type="IsShowMainWeapon" Value="true"/>
+		<Inventory Type="IsSortedFamilyInventory" Value="false"/>
+		<Inventory Type="IsSortedFamilyCashInventory" Value="false"/>
+	</UIData>
+	<UIData Index="44" IsShow="false"/>
+</UIData>
+<GameOption Version="1"/>
+<EquipSlotFlag Version="2">
+	<Avatar Index="0" IsOn="false"/>
+	<Avatar Index="1" IsOn="false"/>
+	<Avatar Index="2" IsOn="false"/>
+	<Avatar Index="3" IsOn="false"/>
+	<Avatar Index="4" IsOn="false"/>
+	<Avatar Index="5" IsOn="false"/>
+	<Avatar Index="6" IsOn="false"/>
+	<Avatar Index="7" IsOn="false"/>
+	<Avatar Index="8" IsOn="false"/>
+	<Avatar Index="9" IsOn="false"/>
+	<Avatar Index="10" IsOn="false"/>
+	<Avatar Index="11" IsOn="false"/>
+	<Avatar Index="12" IsOn="false"/>
+	<Avatar Index="13" IsOn="false"/>
+	<Avatar Index="14" IsOn="true"/>
+	<Avatar Index="15" IsOn="false"/>
+	<Avatar Index="16" IsOn="false"/>
+	<Avatar Index="17" IsOn="false"/>
+	<Avatar Index="18" IsOn="false"/>
+	<Avatar Index="19" IsOn="false"/>
+	<Avatar Index="20" IsOn="false"/>
+	<Avatar Index="21" IsOn="false"/>
+	<Avatar Index="22" IsOn="false"/>
+	<Avatar Index="23" IsOn="false"/>
+	<Avatar Index="24" IsOn="false"/>
+	<Avatar Index="25" IsOn="false"/>
+	<Avatar Index="26" IsOn="false"/>
+	<Avatar Index="27" IsOn="false"/>
+	<Avatar Index="28" IsOn="false"/>
+	<Avatar Index="29" IsOn="false"/>
+	<Avatar Index="30" IsOn="false"/>
+	<Avatar Index="31" IsOn="false"/>
+	<ShowSubweapon IsOn="true"/>
+</EquipSlotFlag>
+<BlockList Version="2"/>
+<MessageFilter Version="1"/>
+<GameOptionGlobal Version="2"/>
+<UIValue Version="4">
+	<Number Index="120" Value="2.000000" StorageType="3"/>
+	<Bool Index="13" Value="false" StorageType="3"/>
+	<Bool Index="169" Value="false" StorageType="3"/>
+</UIValue>
+<VoiceChatInfo Version="4"/>
+<PetInfo Version="4"/>
+<SkillCommandLock Version="1"/>
+<SkillCoolTimeSlot Version="2">
+	<SkillCoolTimeSlot SlotNo="0" SkillNo="0"/>
+	<SkillCoolTimeSlot SlotNo="1" SkillNo="0"/>
+	<SkillCoolTimeSlot SlotNo="2" SkillNo="0"/>
+	<SkillCoolTimeSlot SlotNo="3" SkillNo="0"/>
+	<SkillCoolTimeSlot SlotNo="4" SkillNo="0"/>
+	<SkillCoolTimeSlot SlotNo="5" SkillNo="0"/>
+	<SkillCoolTimeSlot SlotNo="6" SkillNo="0"/>
+	<SkillCoolTimeSlot SlotNo="7" SkillNo="0"/>
+	<SkillCoolTimeSlot SlotNo="8" SkillNo="0"/>
+	<SkillCoolTimeSlot SlotNo="9" SkillNo="0"/>
+	<SkillCoolTimeSlot SlotNo="10" SkillNo="0"/>
+	<SkillCoolTimeSlot SlotNo="11" SkillNo="0"/>
+	<SkillCoolTimeSlot SlotNo="12" SkillNo="0"/>
+	<SkillCoolTimeSlot SlotNo="13" SkillNo="0"/>
+	<SkillCoolTimeSlot SlotNo="14" SkillNo="0"/>
+	<SkillCoolTimeSlot SlotNo="15" SkillNo="0"/>
+	<SkillCoolTimeSlot SlotNo="16" SkillNo="0"/>
+	<SkillCoolTimeSlot SlotNo="17" SkillNo="0"/>
+	<SkillCoolTimeSlot SlotNo="18" SkillNo="0"/>
+	<SkillCoolTimeSlot SlotNo="19" SkillNo="0"/>
+</SkillCoolTimeSlot>
+<ItemLockedInInventory Version="4"/>
+<QuestOption Version="2">
+	<LatestQuestCount Value="3"/>
+	<QuestWidgetType Type="Extend"/>
+</QuestOption>
+<UISettingPreset Version="1"/>
+<PetOrderList Version="4"/>
+<PetGroupInfo Version="4"/>
+<MemoList Version="1"/>
+<GameOptionCustomize Version="2"/>
+<ButtonShortcutsList Version="1"/>
+<FairySettingData Version="5"/>
+<ConsoleQuickMenu Version="8">
+	<QuickMenuGroupInfo/>
+	<QuickMenuGroupInfo/>
+	<QuickMenuGroupInfo/>
+	<QuickMenuGroupInfo/>
+	<QuickMenuGroupInfo/>
+	<QuickMenuGroupInfo/>
+	<QuickMenuGroupInfo/>
+	<QuickMenuGroupInfo/>
+</ConsoleQuickMenu>
+<ConsoleWorldMapBookMark Version="2"/>
+<BlackSpiritSkillBlock Version="1"/>
+<JournalBookmark Version="2"/>
+<DynamicPanelScale Version="1"/>
+<VehicleSkillCommandLock Version="4"/>
+<SkillPresetMemo Version="2"/>
+<MonsterChaseData Version="2"/>
+<WorkerNameChange Version="3"/>
+<FairyQuickItemSlot Version="1">
+	<Slot Index="0" ItemKey="0" ItemWhereType="0" SlotNo="255"/>
+	<Slot Index="1" ItemKey="0" ItemWhereType="0" SlotNo="255"/>
+	<Slot Index="2" ItemKey="0" ItemWhereType="0" SlotNo="255"/>
+	<Slot Index="3" ItemKey="0" ItemWhereType="0" SlotNo="255"/>
+	<Slot Index="4" ItemKey="0" ItemWhereType="0" SlotNo="255"/>
+	<Slot Index="5" ItemKey="0" ItemWhereType="0" SlotNo="255"/>
+	<Slot Index="6" ItemKey="0" ItemWhereType="0" SlotNo="255"/>
+	<Slot Index="7" ItemKey="0" ItemWhereType="0" SlotNo="255"/>
+	<Slot Index="8" ItemKey="0" ItemWhereType="0" SlotNo="255"/>
+	<Slot Index="9" ItemKey="0" ItemWhereType="0" SlotNo="255"/>
+</FairyQuickItemSlot>
+<RecentAlchemyHistory Version="1"/>
+<UISortOption Version="1">
+	<UISortOptionWhereType SortWhere="0" SortProperty="0" SortBy="2" UseSort="0" IsCategoryView="0"/>
+	<UISortOptionWhereType SortWhere="1" SortProperty="0" SortBy="2" UseSort="0" IsCategoryView="0"/>
+	<UISortOptionWhereType SortWhere="2" SortProperty="0" SortBy="2" UseSort="0" IsCategoryView="0"/>
+	<UISortOptionWhereType SortWhere="3" SortProperty="0" SortBy="2" UseSort="0" IsCategoryView="0"/>
+	<UISortOptionWhereType SortWhere="5" SortProperty="0" SortBy="2" UseSort="0" IsCategoryView="0"/>
+</UISortOption>
+<ArtifactBagPresetInfo Version="1"/>
+<SelectCollectTypeChange Version="1"/>
+<PhotoMode Version="1"/>
+<WorldMapQuickScreenPosition Version="2"/>
+<AutoUseBuffItemInfo Version="2" LastPresetIndex="0">
+	<AutoUseBuffItemPresetData/>
+	<AutoUseBuffItemPresetData/>
+	<AutoUseBuffItemPresetData/>
+</AutoUseBuffItemInfo>
+<ChatProcessMacro Version="1"/>
+<JewelPresetNameData Version="1"/>
+<WorkerAutoRecovery Version="1"/>
+<QuickMenuPreset Version="1" SelectedPresetIdx="-1">
+	<QuickMenuPreset PresetName="">
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+	</QuickMenuPreset>
+	<QuickMenuPreset PresetName="">
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+	</QuickMenuPreset>
+	<QuickMenuPreset PresetName="">
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+		<QuickMenuGroup>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+			<QuickMenu DataType="6" Param0="0" Param1="0" Param2="0"/>
+		</QuickMenuGroup>
+	</QuickMenuPreset>
+</QuickMenuPreset>
+<PetGroupName Version="1"/>
+<SkillCoolTimeMemo Version="1"/>
+

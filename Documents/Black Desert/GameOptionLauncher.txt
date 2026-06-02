@@ -1,0 +1,5 @@
+LauncherResourceType = 2
+webvLanguage = 0
+launcherRetain = 0
+launcherMiniMode = 0
+launcherGpu = 1
